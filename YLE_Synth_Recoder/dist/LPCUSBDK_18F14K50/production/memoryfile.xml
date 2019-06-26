@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project>
+  <executable name="dist/LPCUSBDK_18F14K50/production\YLE_Synth_Recoder.production.hex">
+    <memory name="program">
+      <units>bytes</units>
+      <length>16384</length>
+      <used>11210</used>
+      <free>5174</free>
+    </memory>
+    <memory name="data">
+      <units>bytes</units>
+      <length>768</length>
+      <used>306</used>
+      <free>462</free>
+    </memory>
+  </executable>
+</project>
